@@ -13,6 +13,28 @@ A beginner-friendly Python tool that checks website HTTP responses and displays 
 - Validate basic URL structure
 
 
+## Technologies Used
+
+- Python 3
+- Requests library
+- urllib.parse
+
+## Installation
+
+1. Install Python 3.
+2. Clone or download this repository.
+3. Open a terminal in the project folder.
+4. Install the required dependency:
+
+   python -m pip install -r requirements.txt
+
+## How to Run
+
+Run the following command:
+
+    python main.py
+
+
 ## Author
 
 Bhagya B
