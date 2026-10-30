@@ -49,6 +49,14 @@ Example:
 Actual results depend on the website and network connection.
 
 
+## Learning Outcomes
+
+- Python functions and loops
+- HTTP requests and response codes
+- Exception handling
+- URL parsing and validation
+- Basic website availability checks
+
 ## Author
 
 Bhagya B
