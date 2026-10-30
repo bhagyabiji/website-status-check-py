@@ -34,6 +34,20 @@ Run the following command:
 
     python main.py
 
+Enter one or more website URLs separated by commas.
+
+Example:
+
+    https://example.com, https://python.org
+
+## Example Output
+
+    Website: https://example.com
+    HTTP Status Code: 200
+    Result: Website responded successfully.
+
+Actual results depend on the website and network connection.
+
 
 ## Author
 
